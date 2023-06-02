@@ -1,4 +1,4 @@
-<h1>Projeto Pokedex Pokémon</h1>
+<h1>Projeto Pokédex Pokémon</h1>
 
 <h3>Veja o projeto clicando<a href="https://icaiohenrique.github.io/pokedex-pokemon/" target="_blank"</a> aqui!</h3>
 
